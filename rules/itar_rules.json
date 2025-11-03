@@ -1,0 +1,39 @@
+{
+  "standard_name": "ITAR",
+  "description": "International Traffic in Arms Regulations",
+  "authority": "US State Department",
+  
+  "// OTHMAN": "USE YOUR SECURITY CLEARANCE KNOWLEDGE HERE!",
+  
+  "usml_categories": [
+    {
+      "category": "VIII",
+      "description": "Aircraft and Related Articles",
+      "examples": [
+        "Military aircraft",
+        "// ADD: Specific components you know are controlled"
+      ]
+    },
+    {
+      "category": "IX", 
+      "description": "Military Training Equipment",
+      "examples": [
+        "// ADD: What you've seen marked as ITAR"
+      ]
+    }
+  ],
+  
+  "controlled_keywords": [
+    "// ADD KEYWORDS that indicate ITAR control from your experience:",
+    "missile",
+    "radar",
+    "targeting",
+    "// Add more you've encountered"
+  ],
+  
+  "export_warning_statement": "// PASTE the exact ITAR warning you use at work",
+  
+  "restricted_countries": [
+    "// ADD countries from State Dept list you know"
+  ]
+}
