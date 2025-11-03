@@ -230,8 +230,8 @@ GitHub: [@Ozzyboy16900](https://github.com/Ozzyboy16900)
 ## 📞 Support & Consulting
 
 For custom implementations or consulting:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
+- Email: Oth.Abunamous1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/othman-abunamous/
 
 ---
 
