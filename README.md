@@ -218,7 +218,7 @@ MIT License - See LICENSE file for details
 **Othman Abunamous**  
 CAD/PLM Administrator | Electrical Engineer | Sales Engineering Professional  
 Location: Dallas-Fort Worth, Texas  
-LinkedIn: [Your LinkedIn]  
+LinkedIn: https://www.linkedin.com/in/othman-abunamous/  
 GitHub: [@Ozzyboy16900](https://github.com/Ozzyboy16900)
 
 ## 🙏 Acknowledgments
